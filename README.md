@@ -1,0 +1,1 @@
+Flipkart Clone is a responsive web project built entirely with HTML and CSS. It faithfully recreates the Flipkart homepage, showcasing intuitive navigation, promotional banners, and product displays. This project highlights clean coding practices, attention to detail, and strong front-end development skills.
